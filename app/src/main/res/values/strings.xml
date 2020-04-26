@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Nöbetçi Eczaneler</string>
+    <string name="istanbul">İLÇEYİ SEÇİNİZ</string>
+    <string-array  name="istanbul_ilceler">
+        <item>TÜM İLÇELER</item>
+        <item>ADALAR</item>
+        <item>ARNAVUTKOY</item>
+        <item>ATASEHIR</item>
+        <item>AVCILAR</item>
+        <item>BAGCILAR</item>
+        <item>BAHCELIEVLER</item>
+        <item>BAKIRKOY</item>
+        <item>BASAKSEHIR</item>
+        <item>BAYRAMPASA</item>
+        <item>BESIKTAS</item>
+        <item>BEYKOZ</item>
+        <item>BEYOGLU</item>
+        <item>BEYLIKDUZU</item>
+        <item>BUYUKCEKMECE</item>
+        <item>CATALACA</item>
+        <item>CEKMEKOY</item>
+        <item>ESENLER</item>
+        <item>ESENYURT</item>
+        <item>EYUP</item>
+        <item>FATIH</item>
+        <item>GAZIOSMANPASA</item>
+        <item>GUNGOREN</item>
+        <item>kadikoy</item>
+        <item>kagithane</item>
+        <item>kartal</item>
+        <item>kucukcekmece</item>
+        <item>maltepe</item>
+        <item>pendik</item>
+        <item>sancaktepe</item>
+        <item>sariyer</item>
+        <item>sile</item>
+        <item>silivri</item>
+        <item>sisli</item>
+        <item>sultanbeyli</item>
+        <item>sultangazi</item>
+        <item>tuzla</item>
+        <item>umraniye</item>
+        <item>uskudar</item>
+        <item>zeytinburnu</item>
+    </string-array>
+</resources>
